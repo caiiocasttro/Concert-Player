@@ -18,4 +18,5 @@ The application displays a list of local videos with thumbnails and it is possib
 
 ### 📸 Screenshots of the application
  
-![Player screenshots](https://github.com/caiiocasttro/Concert-Player/assets/104564732/6f6f8a0f-9ec3-445a-947c-14296ad12a03)
+![Player screenshots](https://github.com/caiiocasttro/Concert-Player/assets/104564732/72cfb9db-e92e-4bf0-bef7-7e4768a0b468)
+
