@@ -42,7 +42,7 @@ class ViewController: UIViewController {
     private func configureLayout() {
         view.backgroundColor = .systemBackground
         
-        self.title = "Concerts"
+        self.title = "Favorite Videos"
         navigationController?.navigationBar.prefersLargeTitles = true
         navigationController?.navigationItem.largeTitleDisplayMode = .always
         
