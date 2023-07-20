@@ -4,7 +4,7 @@
 
 ### 💡 About the project 
 
-I decided to develop this project to have fun playing my favorite lives and also practice AVKit playing local videos.
+I decided to develop this project to have fun playing my favorite lives and also practice AVKit and AVPlayer playing local videos.
 
 ### 🧐 How it works
 
